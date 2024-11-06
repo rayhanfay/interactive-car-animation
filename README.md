@@ -1,12 +1,13 @@
 # Interactive Car Animation
 
-This project creates an interactive car animation that responds to user inputs. Designed as a fun and educational exploration of animation techniques, this project uses web technologies to render an animated car that can respond to various actions.
+A group project in creating an animated application program that can move freely. This project is built in Java and specifically designed to run in the NetBeans IDE. The goal is to demonstrate animation control and interactivity within a simple application framework.
 
 ## Features
 
-- **Interactive Controls**: Users can control the car animation, modifying its speed, direction, and more.
-- **Realistic Effects**: Includes animation effects for a more engaging experience.
-- **Responsive Design**: Adapts to different screen sizes and orientations.
+- **Interactive Controls**: Users can control the car animation, adjusting its speed, direction, and movement.
+- **Realistic Animation Effects**: Includes effects for a visually engaging experience.
+- **Free Movement**: Allows the animated car to move freely within the frame.
+- **Java-Based**: Uses Java for logic and interactivity, providing a robust and object-oriented framework for animation.
 
 ## Installation
 
@@ -15,22 +16,17 @@ This project creates an interactive car animation that responds to user inputs. 
     git clone https://github.com/rayhanfay/interactive-car-animation.git
     ```
 
-2. Navigate into the project directory:
-    ```bash
-    cd interactive-car-animation
-    ```
-
-3. Open `index.html` in your browser to view the animation.
+2. Open the project in [NetBeans IDE](https://netbeans.apache.org/).
+3. Build and run the project directly within NetBeans.
 
 ## Usage
 
-Once opened in a browser, you can interact with the car using various on-screen controls or buttons.
+Once run in NetBeans, users can interact with the car through on-screen controls to change its direction and speed.
 
 ## Technologies
 
-- **HTML/CSS**: For structure and styling.
-- **JavaScript**: For interactivity and animation logic.
-- **SVG**: For scalable, high-quality graphics.
+- **Java**: Main programming language, handling application logic and interactivity.
+- **NetBeans IDE**: Required IDE for building and running the project.
 
 ## Contributing
 
