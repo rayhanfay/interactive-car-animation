@@ -2,14 +2,6 @@
 
 This project creates an interactive car animation that responds to user inputs. Designed as a fun and educational exploration of animation techniques, this project uses web technologies to render an animated car that can respond to various actions.
 
-## Table of Contents
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technologies](#technologies)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 
 - **Interactive Controls**: Users can control the car animation, modifying its speed, direction, and more.
